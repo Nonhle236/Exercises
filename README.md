@@ -1,0 +1,2 @@
+# Exercises
+Brightlearn SQL fundamentals
